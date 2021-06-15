@@ -65,7 +65,7 @@ let app = new SvtRouter({
     - match route by path and update curRoute
     - refresh page by curRoute
 - back()
-    - just like window.history.back()
+    - just call window.history.back()
 
 ## directions
 - temporarily, not supported neested route、 keepalive feature like in vue-router
