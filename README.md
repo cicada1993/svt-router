@@ -1,4 +1,4 @@
-# svt-loader
+# svt-router
 - a tiny and strong hash router for svelte but idea can be for any front-end project
 - you can handle your web page as you want
 
